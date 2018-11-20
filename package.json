@@ -8,7 +8,7 @@
         "test": "ng test",
         "lint": "ng lint",
         "e2e": "ng e2e",
-        "build-depoly": "ng build --prod --base-href \"https://24wings.github.io/band-echart/\""
+        "build-deploy": "ng build --prod --base-href \"https://24wings.github.io/band-echart/\""
     },
     "private": true,
     "dependencies": {
